@@ -1,2 +1,2 @@
-# GPT
-Development of a GTP from scratch
+# DL-GPT
+Deep Leaning GPT from scratch
